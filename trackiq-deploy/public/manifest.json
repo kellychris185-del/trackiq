@@ -1,0 +1,9 @@
+{
+  "short_name": "TrackIQ",
+  "name": "TrackIQ — Greyhound Racing Analyst",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060608",
+  "background_color": "#060608"
+}
